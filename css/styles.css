@@ -52,7 +52,7 @@ main {
 
 .box--center {
   background-color: #3498db;
-  top: 260px;
+  top: calc(50% - 40px);
   left: calc(50% - 40px);
 }
 
